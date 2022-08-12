@@ -47,29 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD7CW-FLVGZGHosuRuJBCQx4chw8tiJ0Z8',
-    appId: '1:721732210668:web:2425fbc9e95bb2e6d27ac9',
-    messagingSenderId: '721732210668',
-    projectId: 'travel-app-cab09',
-    authDomain: 'travel-app-cab09.firebaseapp.com',
-    storageBucket: 'travel-app-cab09.appspot.com',
+    apiKey: 'AIzaSyA4RJeNIXY_acAJG19nTXo9ylMDz1iMUqw',
+    appId: '1:538736334889:web:4e6930ef4e96a1c534a438',
+    messagingSenderId: '538736334889',
+    projectId: 'travel-app-fe009',
+    authDomain: 'travel-app-fe009.firebaseapp.com',
+    storageBucket: 'travel-app-fe009.appspot.com',
+    measurementId: 'G-Y90TMF7WBE',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBOfMbawESH2EQrGCQfY-e6rCtggUTFLp8',
-    appId: '1:721732210668:android:6e5977ce021f0e66d27ac9',
-    messagingSenderId: '721732210668',
-    projectId: 'travel-app-cab09',
-    storageBucket: 'travel-app-cab09.appspot.com',
+    apiKey: 'AIzaSyA7QzkvfIa9q_oE6OUoaZzrqXyTkiXW_Co',
+    appId: '1:538736334889:android:ac430f9fca7f064134a438',
+    messagingSenderId: '538736334889',
+    projectId: 'travel-app-fe009',
+    storageBucket: 'travel-app-fe009.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC4Q-USVBv1oo4T3ak340Aj6MVKNnhueRc',
-    appId: '1:721732210668:ios:a2cfc1bc863ac624d27ac9',
-    messagingSenderId: '721732210668',
-    projectId: 'travel-app-cab09',
-    storageBucket: 'travel-app-cab09.appspot.com',
-    iosClientId: '721732210668-0ak3adi9t19a5j1aqtofv3qaqo4g7hpv.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAsIaatZckMIiRNWj7JrFw5wzjo3WgOasc',
+    appId: '1:538736334889:ios:91aa70168a878e0a34a438',
+    messagingSenderId: '538736334889',
+    projectId: 'travel-app-fe009',
+    storageBucket: 'travel-app-fe009.appspot.com',
+    iosClientId: '538736334889-ucjd38804tthe3r8b9qbnmmnrsa9dlim.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterTravelUi',
   );
 }
